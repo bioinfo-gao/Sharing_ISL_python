@@ -1,6 +1,7 @@
 # ISL_python
 ### An Introduction to Statistical Learning with Applications in PYTHON
-
+#### The origial files was created in 2022 
+#### Updated by Zhen Gao in 2025 
 I love the book << An Introduction to Statistical Learning with Applications in R>> by Gareth James • Daniela Witten • Trevor Hastie and Robert Tibshirani. This book has been super helpful for me. 
 
 In this repository, I have implemented the same/similar functionality in Python. The code is in a script format to show the thought process. Hope this could help this book reach more broad audience. *Don't let the language barriers stop you from exploring something fun and useful.*
